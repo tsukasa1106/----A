@@ -66,4 +66,4 @@ cv2.imshow("", img)
 # キー入力があるまで，停止する．
 cv2.waitKey(0)
 # フレームを閉じる．
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() 
