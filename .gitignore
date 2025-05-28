@@ -1,1 +1,4 @@
-/yolo11x-pose.pt
+*.pt
+__pycache__/
+runs/
+debug/
